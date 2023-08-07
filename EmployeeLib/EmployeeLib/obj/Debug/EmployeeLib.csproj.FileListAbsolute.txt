@@ -1,0 +1,6 @@
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.dll
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\EmployeeLib\EmployeeLib\bin\Debug\EmployeeLib.pdb
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.dll
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\EmployeeLib\EmployeeLib\obj\Debug\EmployeeLib.pdb

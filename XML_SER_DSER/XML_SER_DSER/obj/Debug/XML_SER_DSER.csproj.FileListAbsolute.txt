@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\XML_SER_DSER\XML_SER_DSER\bin\Debug\XML_SER_DSER.exe.config
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\XML_SER_DSER\XML_SER_DSER\bin\Debug\XML_SER_DSER.exe
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\XML_SER_DSER\XML_SER_DSER\bin\Debug\XML_SER_DSER.pdb
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\XML_SER_DSER\XML_SER_DSER\bin\Debug\EmployeeLib.dll
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\XML_SER_DSER\XML_SER_DSER\bin\Debug\EmployeeLib.pdb
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\XML_SER_DSER\XML_SER_DSER\obj\Debug\XML_SER_DSER.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\XML_SER_DSER\XML_SER_DSER\obj\Debug\XML_SER_DSER.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\XML_SER_DSER\XML_SER_DSER\obj\Debug\XML_SER_DSER.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\XML_SER_DSER\XML_SER_DSER\obj\Debug\XML_SER_DSER.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\XML_SER_DSER\XML_SER_DSER\obj\Debug\XML_SER_DSER.exe
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\XML_SER_DSER\XML_SER_DSER\obj\Debug\XML_SER_DSER.pdb

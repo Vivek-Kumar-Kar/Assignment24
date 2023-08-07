@@ -1,0 +1,11 @@
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\Binary_Ser_And_Dser\Binary_Ser_And_Dser\bin\Debug\Binary_Ser_And_Dser.exe.config
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\Binary_Ser_And_Dser\Binary_Ser_And_Dser\bin\Debug\Binary_Ser_And_Dser.exe
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\Binary_Ser_And_Dser\Binary_Ser_And_Dser\bin\Debug\Binary_Ser_And_Dser.pdb
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\Binary_Ser_And_Dser\Binary_Ser_And_Dser\bin\Debug\EmployeeLib.dll
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\Binary_Ser_And_Dser\Binary_Ser_And_Dser\bin\Debug\EmployeeLib.pdb
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\Binary_Ser_And_Dser\Binary_Ser_And_Dser\obj\Debug\Binary_Ser_And_Dser.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\Binary_Ser_And_Dser\Binary_Ser_And_Dser\obj\Debug\Binary_Ser_And_Dser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\Binary_Ser_And_Dser\Binary_Ser_And_Dser\obj\Debug\Binary_Ser_And_Dser.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\Binary_Ser_And_Dser\Binary_Ser_And_Dser\obj\Debug\Binary_Ser_And_Dser.csproj.CopyComplete
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\Binary_Ser_And_Dser\Binary_Ser_And_Dser\obj\Debug\Binary_Ser_And_Dser.exe
+C:\Users\Lenovo\Desktop\C# assignments\Assignment24\Binary_Ser_And_Dser\Binary_Ser_And_Dser\obj\Debug\Binary_Ser_And_Dser.pdb
